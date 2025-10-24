@@ -85,7 +85,7 @@
     color: #404bbf;
 }
  .nav-list,  .contact-list, 
- .about-us-list, .team-list,  .li-item-portfolio {
+ .about-us-list, .team-list,  .item-portfolio {
     list-style-type: none;
  }
 
@@ -153,9 +153,9 @@
     display: flex;
     gap: 24px;
 }
-/*.li-item {
+.li-item {
     width: calc((100% - 72px) / 4);
-}*/
+}
 .name-next {
     margin-bottom: 8px;
 }
@@ -230,7 +230,7 @@
     padding-bottom: 120px;
 }
 .portfolio-icon {
-    display: flex;
+    /*display: flex;*/
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
