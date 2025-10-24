@@ -85,18 +85,17 @@ img {
 .contact-link:focus {
     color: #404bbf;
 }
-
-
  .nav-list,  .contact-list, 
  .about-us-list, .team-list,  .portfolio-title {
     list-style-type: none;
  }
-
+/*Section-1*/
 .main-section {
     background-color: #2E2F42;
+    padding: 188px 0
 }
 .main-container{
-padding: 188px 0;
+max-width: 496px;
 }
 .main-title {
     color: #ffffff;
@@ -126,6 +125,8 @@ padding: 188px 0;
     height: 56px;
     border: none;
     border-radius: 4px;
+    display: block;
+    margin-top: ;
 }
 
 .main-section .main-box:hover,
