@@ -85,7 +85,7 @@
     color: #404bbf;
 }
  .nav-list,  .contact-list, 
- .about-us-list, .team-list,  .portfolio-item {
+ .about-us-list, .team-list,  .li-item {
     list-style-type: none;
  }
 
