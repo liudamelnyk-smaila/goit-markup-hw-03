@@ -235,7 +235,7 @@
     column-gap: 24px;
     row-gap: 48px;
 }
-.portfolio-item {
+.portfolio-item .portfolio-icon {
     width: calc((100% - 48px) / 3);
 }
 .portfolio-item-container {
