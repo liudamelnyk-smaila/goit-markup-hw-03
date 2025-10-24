@@ -8,7 +8,10 @@
  .nav{
     font-family: "Raleway", sans-serif;
  }
-
+ 
+.img {
+    display: block
+}
 
 .nav-logo { 
     color: #4d5ae5;
