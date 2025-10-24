@@ -19,12 +19,12 @@ img {
     display: flex;
 width: 1158px;
 margin: 0 auto;
-padding: 0 15px
+padding: 0 15px;
 }
+
 .nav{
     display: flex;
     align-items: center;
-
 }
 .nav-logo { 
     color: #4d5ae5;
@@ -46,7 +46,7 @@ padding: 0 15px
 .nav-list .link:focus {
     color: #404bbf;
 }
-.nan-list {
+.nav-list {~
     display: flex;
     gap: 40px;
 }
