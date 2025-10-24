@@ -89,7 +89,10 @@ img {
  .about-us-list, .team-list,  .portfolio-title {
     list-style-type: none;
  }
-/*Section-1*/
+
+
+
+/*Main Section-1*/
 .main-section {
     background-color: #2E2F42;
     padding: 188px 0
@@ -110,7 +113,6 @@ max-width: 496px;
     font-variation-settings: "wdth" 100;
     max-width: 496px;
 }
-
 .main-box {
     color: #ffffff;
     background-color: #4D5AE5;
@@ -128,12 +130,34 @@ max-width: 496px;
     display: block;
     margin-top: ;
 }
-
 .main-section .main-box:hover,
 .main-section .main-box:focus {
     background-color: #404BBF;
     cursor: pointer;
 }
+
+
+
+/*About Us Section-2*/
+.about{
+    padding: 120px 0;
+}
+.about-us-list{
+    display: flex;
+    gap: 24px;
+}
+.li-first {
+    width: calc((100% - 72px) / 4);
+}
+.name-next{
+    margin-bottom: 8px;
+}
+
+
+
+
+
+
 
 .team{
     background-color: #F4F4FD;
