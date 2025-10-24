@@ -10,9 +10,22 @@
  }
  
 .img {
-    display: block
+    display: block;
+}
+.header {border-bottom: 1px solid #e7e9fc;
 }
 
+.container-header{
+    display: flex;
+width: 1158px;
+margin: 0 auto;
+padding: 0 15px
+}
+.nav{
+    display: flex;
+    align-items: center;
+
+}
 .nav-logo { 
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -22,6 +35,7 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-right: 76px;
     }
 .nav-logo-accent {
      color: #2e2f42;
