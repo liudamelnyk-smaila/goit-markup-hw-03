@@ -153,9 +153,9 @@
     display: flex;
     gap: 24px;
 }
-.li-item {
+/*.li-item {
     width: calc((100% - 72px) / 4);
-}
+}*/
 .name-next {
     margin-bottom: 8px;
 }
@@ -235,7 +235,7 @@
     column-gap: 24px;
     row-gap: 48px;
 }
-.li-item-portfolio {
+.item-portfolio {
     width: calc((100% - 48px) / 3);
 }
 .portfolio-item-container {
