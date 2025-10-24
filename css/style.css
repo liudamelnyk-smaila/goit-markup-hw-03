@@ -182,7 +182,7 @@
 .name-text{
     padding: 32px 0;
 }
-.name-next {
+.name-next{
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
@@ -259,6 +259,7 @@
     text-decoration: none;
     text-transform: uppercase;
     display: inline-block;
+    margin-bottom: 16px;
 }
 .footer-text {
     font-family: "Roboto", sans-serif;
