@@ -237,7 +237,6 @@
 }
 .item-portfolio {
     width: calc((100% - 48px) / 3);
-    display: block;
 }
 .portfolio-item-container {
     border: 1px solid #e7e9fc;
