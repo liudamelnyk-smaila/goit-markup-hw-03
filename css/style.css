@@ -236,7 +236,7 @@
     row-gap: 48px;
 }
 .item-portfolio {
-    width: calc((100% - 24px * 2) / 3)
+    width: calc((100% - 48px) / 3);
 }
 .portfolio-item-container {
     border: 1px solid #e7e9fc;
