@@ -5,7 +5,7 @@
     background-color: #FFFFFF;
 }
 
- .nav {
+.nav {
     font-family: "Raleway", sans-serif;
     display: flex;
     align-items: center;
@@ -43,8 +43,7 @@
 .nav-logo-accent{
      color: #2e2f42;
         }
-.nav-list .link:hover,
-.nav-list .link:focus{
+.nav-list .link:hover .link:focus{
     color: #404bbf;
 }
 .nav-list {
@@ -150,22 +149,14 @@
 .about {
     padding: 120px 0;
 }
-.about-us-list {
-    display: flex;
-    gap: 24px;
-}
+
 .item-about {
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
-.name-next {
-    margin-bottom: 8px;
-}
-
 ul {
     padding-left: 0;
     margin: 0;
 }
-
 h2 h3 p{
     margin: 0;
 }
@@ -217,6 +208,9 @@ h2 h3 p{
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    display: flex;
+    gap: 24px;
+
 }
 .text {
     font-family: "Roboto", sans-serif;
