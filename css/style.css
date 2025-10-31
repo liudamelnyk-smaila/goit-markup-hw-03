@@ -4,10 +4,11 @@
     color: #434455;
     background-color: #FFFFFF;
 }
+
  .nav {
     font-family: "Raleway", sans-serif;
     display: flex;
-        align-items: center;
+    align-items: center;
  }
 .images {
     display: block; 
@@ -160,13 +161,14 @@
     margin-bottom: 8px;
 }
 
-.about-us-list ..about-us-list .portfolio-icon{
+ul {
     padding-left: 0;
-        margin: 0;
-}
-.main-title .visually-hidden .name-next .name{
     margin: 0;
-} 
+}
+
+h2 h3 p{
+    margin: 0;
+}
 
 /*Team Section-3*/
 .team {
@@ -225,7 +227,7 @@
     text-align: center;
 } 
 
-/*Portfolio Section-4*/
+/*Portfolio Section-5*/
 .portfolio {
     font-size: 36px;
     line-height: 1.11;
