@@ -160,6 +160,13 @@
     margin-bottom: 8px;
 }
 
+.about-us-list ..about-us-list .portfolio-icon{
+    padding-left: 0;
+        margin: 0;
+}
+.main-title .visually-hidden .name-next .name{
+    margin: 0;
+} 
 
 /*Team Section-3*/
 .team {
