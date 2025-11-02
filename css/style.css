@@ -111,6 +111,7 @@
     letter-spacing: 0.02em;
     font-variation-settings: "wdth" 100;
     max-width: 496px;
+    margin: 0 auto 48px auto;
 }
 .main-box {
     color: #ffffff;
@@ -128,6 +129,7 @@
     border-radius: 4px;
     display: block;
     cursor: pointer;
+    margin: 0 auto;
 }
 .main-section .main-box:hover,
 .main-section .main-box:focus {
@@ -163,7 +165,13 @@ ul {
     padding-left: 0;
     margin: 0;
 }
-h1 h2 h3 p{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     margin: 0;
 }
 
