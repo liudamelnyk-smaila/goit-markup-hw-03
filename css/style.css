@@ -27,8 +27,8 @@
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    align-item:center
-    margin-right: auto;
+    align-items: center;
+    margin-right:auto;
 }
 .nav-logo { 
     color: #4d5ae5;
@@ -60,7 +60,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#2e2f42;
-    display: blok;
+    display: block;
 }
 .nav a,
 .contact a {
@@ -134,7 +134,7 @@
     cursor: pointer;
 }
 .main-title .main-box{
-    margin-right: auto:
+    margin-right: auto;
     margin-left: auto;
 }
 
